@@ -45,7 +45,7 @@ helping both employers set competitive salaries and candidates negotiate better 
 
 - **Finding 1:** Developers earn the highest average salary (~89,323), which is about 41% higher than the dataset’s overall average salary (63,386).
 - **Finding 2:** Professionals with 20 years of experience earn an average of 86,119, about 63% higher than entry-level respondents (52,734)
-- **Finding 3:** The Finance industry offers the most competitive salaries, with an average salary of $82,505, the highest among all industries in the dataset.
+- **Finding 3:** The Finance industry offers the most competitive salaries, with an average salary of 82,505, the highest among all industries in the dataset.
 
 ---
 
